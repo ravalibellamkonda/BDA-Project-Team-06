@@ -24,6 +24,16 @@ Below are the screenshots of working project. Once the application is launched ,
 
 ![10](https://user-images.githubusercontent.com/79431387/146981595-ea71aa5e-5ec9-4a28-b44f-531b0ab7e35c.png)  
 
-![13](https://user-images.githubusercontent.com/79431387/146981645-715138b0-e4c0-4679-9134-449c30cc4553.png)
+![13](https://user-images.githubusercontent.com/79431387/146981645-715138b0-e4c0-4679-9134-449c30cc4553.png)  
 
+#### Video Link: https://youtu.be/iJuEFY_vTMI  
 
+### Module Sharing:
+
+### Data, Code and Reports:  
+#### Ravali Bellamkonda (16307934) 
+#### Munni Vidiyala (16296757)
+
+### Presentation and front end:
+#### Aparna Vennamaneni  
+#### Lakshmi Avinash
