@@ -18,6 +18,7 @@ Positive Smile Vs No Smile (Dataset)
 
 ### Project Snippets :
 Below are the screenshots of working project. Once the application is launched , it shows the images which are displayed with the smile type.  
+
 ![7](https://user-images.githubusercontent.com/79431387/146981222-f49775ea-2860-4ecc-9674-bf3c622124f9.png)  
 
 ![9](https://user-images.githubusercontent.com/79431387/146981536-00bcff0c-4ac4-4d19-ad46-98123a061e2c.png)  
